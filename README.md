@@ -24,7 +24,7 @@ Proyek ini merupakan analisis data *end-to-end* menggunakan **Microsoft Excel** 
 
 ## 📸 Dashboard Preview
 
-![Excel Dashboard Preview](img/dashboard.png)
+![Excel Dashboard Preview](img/Dashboard.png)
 
 ---
 
